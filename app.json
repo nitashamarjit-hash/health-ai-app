@@ -3,6 +3,7 @@
     "name": "Vitalix AI Health",
     "slug": "health-ai-app",
     "version": "1.0.0",
+    "owner": "nitashamarjit-hash",
     "android": {
       "package": "com.nitashamarjit.healthaiapp"
     }

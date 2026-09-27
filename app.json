@@ -6,6 +6,11 @@
     "owner": "nitashamarjit-hash",
     "android": {
       "package": "com.nitashamarjit.healthaiapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9d2e905d-4bdb-4429-a9a8-9f65adcdbaba"
+      }
     }
   }
 }
